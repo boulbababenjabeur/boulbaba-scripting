@@ -1,0 +1,20 @@
+                User commands              
+    Nom
+                sujet2.sh - afficher les caracteristiques hardware 
+ 
+    SYNOPSIS   
+         
+                sujet2.sh [OPTION] 
+
+    DESCRIPTION  
+                seul un argument à la fois 
+
+         -hwinfo, --hardware information 
+                  afficher les caracteristiques detaillés 
+
+         -lspci, --lister tous les periphériques PCI 
+                  afficher les informations detaillées des périphériques du bus PCI
+
+         -s/-save, --sauvegarder 
+                  sauvegarder les informations pertinentes dans un fichier info.txt
+

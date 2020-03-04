@@ -1,0 +1,102 @@
+cpu:
+                       Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, 1800 MHz
+keyboard:
+  /dev/input/event1    AT Translated Set 2 keyboard
+mouse:
+                       VMware Virtual Mouse
+  /dev/input/mice      VirtualPS/2 VMware VMMouse
+  /dev/input/mice      VirtualPS/2 VMware VMMouse
+graphics card:
+                       VMware VMWARE0405
+sound:
+                       Ensoniq AudioPCI 64V/128 / Creative Sound Blaster CT4810
+storage:
+                       Floppy disk controller
+                       VMware Virtual Machine Chipset
+                       VMware LSI Logic Parallel SCSI Controller
+                       VMware SATA AHCI controller
+network:
+  ens33                VMware PRO/1000 MT Single Port Adapter
+network interface:
+  lo                   Loopback network interface
+  ens33                Ethernet network interface
+disk:
+  /dev/sda             VMware Virtual S
+  /dev/ram0            Disk
+  /dev/ram1            Disk
+  /dev/ram2            Disk
+  /dev/ram3            Disk
+  /dev/ram4            Disk
+  /dev/ram5            Disk
+  /dev/ram6            Disk
+  /dev/ram7            Disk
+  /dev/ram8            Disk
+  /dev/ram9            Disk
+  /dev/ram10           Disk
+  /dev/ram11           Disk
+  /dev/ram12           Disk
+  /dev/ram13           Disk
+  /dev/ram14           Disk
+  /dev/ram15           Disk
+partition:
+  /dev/sda1            Partition
+  /dev/sda2            Partition
+  /dev/sda5            Partition
+cdrom:
+  /dev/sr0             NECVMWar VMware SATA CD01
+usb controller:
+                       VMware USB1.1 UHCI Controller
+                       VMware USB2 EHCI Controller
+bios:
+                       BIOS
+bridge:
+                       VMware Virtual Machine Chipset
+                       Intel 440BX/ZX/DX - 82443BX/ZX/DX AGP bridge
+                       VMware Virtual Machine Chipset
+                       VMware Virtual Machine Chipset
+                       VMware PCI bridge
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+                       VMware PCI Express Root Port
+hub:
+                       Linux Foundation 2.0 root hub
+                       Linux Foundation 1.1 root hub
+                       VMware Virtual USB Hub
+memory:
+                       Main Memory
+unknown:
+                       FPU
+                       DMA controller
+                       PIC
+                       Keyboard controller
+                       VMware Virtual Machine Communication Interface
+                       Serial controller
